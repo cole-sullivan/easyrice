@@ -317,7 +317,7 @@ whiptail --infobox "Setting browser privacy settings and add-ons..." 7 60
 browserdir="/home/$name/.mozilla"
 profilesini="$browserdir/firefox/profiles.ini"
 
-# Start librewolf headless so it generates a profile. Then get that profile in a variable.
+# Start Firefox headless so it generates a profile. Then get that profile in a variable.
 sudo -u "$name" firefox --headless >/dev/null 2>&1 &
 sleep 1
 profile="$(sed -n "/Default=.*.default-release/ s/.*=//p" "$profilesini")"
@@ -325,7 +325,7 @@ pdir="$browserdir/firefox/$profile"
 
 [ -d "$pdir" ] && installffaddons
 
-# Kill the now unnecessary librewolf instance.
+# Kill the now unnecessary Firefox instance.
 pkill -u "$name" firefox
 
 # Allow wheel users to sudo with password and allow several system commands
