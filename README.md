@@ -14,7 +14,7 @@ That's it.
 ## What is csOS?
 
 csOS is a minimal terminal-and-vim-based Linux environment that can be
-installed on any Arch-based Linux distribution. It was designed specifically for
+installed on any Arch-based Linux distribution. It was constructed specifically for
 my machine and setup (a ThinkPad running Arch Linux), however, it should work
 on any machine running an Arch-based distribution.
 
