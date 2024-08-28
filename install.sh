@@ -1,14 +1,14 @@
 #!/bin/sh
 
-# csOS installation script
-# by Cole Sullivan <coles@mailbox.org>
+# Installation script for my Linux meta-distribution
+# by Cole Sullivan <contact@colesullivan.us>
 # based on LARBS by Luke Smith <luke@lukesmith.xyz>
 # License: GNU GPLv3
 
 ### OPTIONS AND VARIABLES ###
 
 dotfilesrepo="https://github.com/cole-sullivan/dotfiles"
-progsfile="https://raw.githubusercontent.com/cole-sullivan/csOS/main/progs.csv"
+progsfile="https://raw.githubusercontent.com/cole-sullivan/linux-meta-distribution/main/progs.csv"
 aurhelper="yay"
 repobranch="main"
 export TERM=ansi
