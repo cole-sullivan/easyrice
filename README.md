@@ -1,4 +1,4 @@
-## Installation:
+## Installation
 
 On a freshly installed Arch-based distribution as root, run the following:
 
