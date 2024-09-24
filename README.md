@@ -1,3 +1,9 @@
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff "Bash")](#)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff "Arch Linux")](#)
+[![dwm](https://img.shields.io/badge/dwm-1177AA?logo=dwm&logoColor=fff "dwm")](#)
+[![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=Zsh&logoColor=fff "Zsh")](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff "Neovim")](#)
+
 ## Installation
 
 On a freshly installed Arch-based distribution as root, run the following:
