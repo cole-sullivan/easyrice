@@ -8,7 +8,7 @@
 ### OPTIONS AND VARIABLES ###
 
 dotfilesrepo="https://github.com/cole-sullivan/dotfiles"
-progsfile="https://raw.githubusercontent.com/cole-sullivan/distro-install/main/progs.csv"
+progsfile="https://raw.githubusercontent.com/cole-sullivan/easyrice/main/progs.csv"
 aurhelper="yay"
 repobranch="main"
 export TERM=ansi
