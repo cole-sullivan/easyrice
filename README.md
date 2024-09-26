@@ -1,3 +1,6 @@
+## About
+This script automatically configures a fresh Arch Linux install with my preferred setup. This includes installing and configuring [dwm](https://dwm.suckless.org "dwm.suckless.org"), [st](https://st.suckless.org "st.suckless.org"), and [Neovim](https://github.com/neovim/neovim "neovim/neovim"), along with other programs and packages <br>
+
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff "Bash")](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff "Arch Linux")](#)
 [![dwm](https://img.shields.io/badge/dwm-1177AA?logo=dwm&logoColor=fff "dwm")](#)
