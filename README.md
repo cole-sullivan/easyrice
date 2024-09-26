@@ -4,7 +4,7 @@
 [![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=Zsh&logoColor=fff "Zsh")](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff "Neovim")](#)
 
-## Installation
+## Usage
 
 On a freshly installed Arch-based distribution as root, run the following:
 
